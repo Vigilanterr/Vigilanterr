@@ -1,6 +1,7 @@
-<div align="center">
+![aternos](https://github.com/user-attachments/assets/76e711be-19cd-40dc-a4a2-51337dbaab9c)<div align="center">
 
-![Banner](Bannerupd_17.png)
+![Banner](![aternos](https://github.com/user-attachments/assets/4c656b85-d410-4019-a1d6-1f3fbf9aa120)
+)
 
 </div>
 
