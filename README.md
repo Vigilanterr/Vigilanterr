@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Uploading Name.png…]()
+  ![Uploading Name.png…]()
 " alt="Banner Haidar" width="100%">
 </div>
 
