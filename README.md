@@ -53,9 +53,9 @@ Student · Fullstack Developer · UI/UX Enthusiast
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/@alfaarros-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alfaarros)
+[![Instagram](https://img.shields.io/badge/@ahdairaja-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ahdairaja/)
 [![GitHub](https://img.shields.io/badge/MetamorphosisDev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MetamorphosisDev)
-[![Email](https://img.shields.io/badge/jonasusilo804@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonasusilo804@gmail.com)
+[![Email](https://img.shields.io/badge/tiger4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tiger191110@gmail.com)
 
 <br>
 
