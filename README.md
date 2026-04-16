@@ -6,7 +6,7 @@
 <br>
 
 ```
-Student · Fullstack Developer · UI/UX Enthusiast
+Student · Fullstack Developer · UI/UX Designer
 ```
 
 > Building functional, responsive web apps that blend clean code with thoughtful design.
@@ -54,7 +54,7 @@ Student · Fullstack Developer · UI/UX Enthusiast
 ## Connect
 
 [![Instagram](https://img.shields.io/badge/@ahdairaja-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ahdairaja/)
-[![GitHub](https://img.shields.io/badge/MetamorphosisDev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MetamorphosisDev)
+[![GitHub](https://img.shields.io/badge/Vigilanterr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vigilanterr)
 [![Email](https://img.shields.io/badge/tiger4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tiger191110@gmail.com)
 
 <br>
