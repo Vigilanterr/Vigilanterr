@@ -1,5 +1,11 @@
-![aternos]()
-![Uploading Name.png…](https://github.com/user-attachments/assets/76e711be-19cd-40dc-a4a2-51337dbaab9c)<div align="center">
+<div align="center">
+  <img src="![Uploading Name.png…]()
+" alt="Banner Haidar" width="100%">
+</div>
+
+<br>
+
+<div align="center">
 
 
 </div>
