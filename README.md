@@ -1,5 +1,5 @@
 <div align="center">
-![Banner](Name.png)
+  <img src="Name.png" alt="Banner" width="100%">
 </div>
 
 <br>
