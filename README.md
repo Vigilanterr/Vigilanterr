@@ -1,6 +1,5 @@
 <div align="center">
-  ![Uploading Name.png…]()
-" alt="Banner Haidar" width="100%">
+![Banner](Name.png)
 </div>
 
 <br>
