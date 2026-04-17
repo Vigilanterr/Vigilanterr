@@ -4,13 +4,6 @@
 
 <br>
 
-<div align="center">
-
-
-</div>
-
-<br>
-
 ```
 Student · Fullstack Developer · UI/UX Designer
 ```
