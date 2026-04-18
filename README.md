@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Name.png" alt="Banner" width="100%">
+  <img src="nama.jfif" alt="Banner" width="100%">
 </div>
 
 <br>
