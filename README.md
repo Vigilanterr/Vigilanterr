@@ -9,7 +9,7 @@ Student · Fullstack Developer · UI/UX Designer
 ```
 
 > Building functional, responsive web apps that blend clean code with thoughtful design.
-> Currently studying at **SMK Taruna Bhakti**.
+> Currently studying at **SMK Taruna Bhakti Depok**.
 
 
 ---
