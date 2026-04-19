@@ -5,7 +5,7 @@
 <br>
 
 ```
-Student · Fullstack Developer · UI/UX Designer
+Student from SMK Taruna Bhakti· Fullstack Developer · UI/UX Designer
 ```
 
 > Building functional, responsive web apps that blend clean code with thoughtful design.
