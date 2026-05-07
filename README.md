@@ -1,6 +1,5 @@
-<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 <div align="center">
-  <img src="Banner.png" alt="Banner" width="100%" class"rounded-2x1">
+  <img src="Banner.png" alt="Banner" width="100%" >
 </div>
 
 <br>
