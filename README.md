@@ -75,51 +75,6 @@ status: Open to collaborate ✅
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="140" align="center" valign="middle">
-  <a href="https://kompasdesa.site">
-    <img src="https://raw.githubusercontent.com/newbiejy235/starbhak-kompas-desa/main/public/logo-kompas-desa/kompas_logo_icon.png" width="110" alt="Kompas'Desa Logo" />
-  </a>
-</td>
-<td valign="top">
-
-### 🌾 [Kompas'Desa](https://github.com/newbiejy235/starbhak-kompas-desa)
-**Menghubungkan petani lokal dan pembeli langsung dalam satu ekosistem digital.**
-
-A web platform that works as a bridge between **local farmers** and **buyers** (individuals, restaurants, and wholesalers). It shortens the long agricultural supply chain so farmers get fairer prices and buyers get fresh produce directly from the source.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-
-[🌐 **Live Website**](https://kompasdesa.site) &nbsp;·&nbsp; [💻 **Source Code**](https://github.com/newbiejy235/starbhak-kompas-desa)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>✨ Key features of Kompas'Desa</b></summary>
-<br>
-
-| 🧑‍🌾 For Farmers | 🛒 For Buyers | 🎨 Experience |
-| :--- | :--- | :--- |
-| Step-by-step registration | Search & filter by location | Smooth GSAP animations |
-| Own digital storefront | Filter by rating (4.5+) | Fully responsive layout |
-| Verified farmer badge | Sort by relevance, newest, stock | Fast loading with Next.js App Router |
-
-</details>
-
-<div align="center">
-  <sub>More projects live in my <a href="https://github.com/Vigilanterr?tab=repositories">repositories</a> 📁</sub>
-</div>
-
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
 
