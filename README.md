@@ -1,111 +1,177 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <img src="Banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0D9488,100:38B2AC&text=Hi%2C%20I'm%20Vigilanterr&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Building+clean+%26+functional+web+apps;Turning+ideas+into+pixel-perfect+interfaces;Student+%40+SMK+Taruna+Bhakti+Depok;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Fullstack+Developer;UI%2FUX+Designer;SMK+Taruna+Bhakti+Depok;Building+clean+%26+functional+apps" />
+  <a href="https://github.com/Vigilanterr"><img src="https://img.shields.io/badge/GitHub-Vigilanterr-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahdairaja/"><img src="https://img.shields.io/badge/Instagram-@ahdairaja-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:tiger191110@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
 
-<p align="center">
-  <b>Fullstack Developer & UI/UX Designer</b><br>
-  Building clean, responsive, and functional web applications.<br>
-  Currently studying at <b>SMK Taruna Bhakti Depok</b>
-</p>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Fullstack Developer & UI/UX Designer** who loves building web applications that are **clean, responsive, and genuinely useful**. I enjoy working on both sides of a product, from designing the interface in Figma to shipping the code behind it.
+
+- 🎓 Currently studying at **SMK Taruna Bhakti Depok**
+- 🔭 Working on **fullstack web & mobile projects**
+- 🎨 Passionate about **design systems & user experience**
+- 🤖 Exploring **computer vision** with Python & OpenCV
+- 🌱 Currently leveling up my **TypeScript, Next.js & React Native**
+- 💬 Ask me about **web dev, UI/UX, or design tools**
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Vigilanterr
+role: Fullstack Dev & UI/UX
+school: SMK Taruna Bhakti
+location: Depok, Indonesia 🇮🇩
+focus:
+  - Web Development
+  - Mobile Apps
+  - UI/UX Design
+status: Open to collaborate ✅
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ Tech Stack
+
+**🌐 Frontend**
 <br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" />
 
-<div align="center">
-  <a href="https://www.instagram.com/ahdairaja/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vigilanterr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:tiger191110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+**⚙️ Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,opencv&theme=dark" />
 
----
+**📱 Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" /> <sub>React Native</sub>
 
-## 🚀 Tech Stack
+**🎨 Design & Creative**
+<br>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" />
 
-### 💻 Frontend & Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</div>
+**🔧 Tools & Version Control**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
----
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 📂 Featured Projects
 
-### ⚙️ Backend & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</div>
+<!-- 👉 Ganti isi di bawah ini dengan project kamu yang sebenarnya -->
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎨 Design
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
-</div>
+### 🔹 Project Name 1
+Short description of what this project does and the problem it solves.
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 🔧 Version Control
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
+[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
 
----
+</td>
+<td width="50%" valign="top">
 
+### 🔹 Project Name 2
+Short description of what this project does and the problem it solves.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Name 3
+Short description of what this project does and the problem it solves.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Name 4
+Short description of what this project does and the problem it solves.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vigilanterr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38B2AC&icon_color=38B2AC" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vigilanterr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38B2AC" />
+</div>
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vigilanterr&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vigilanterr&theme=tokyonight&hide_border=true&background=0F172A&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
+</div>
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vigilanterr&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+## 🐍 Contribution Graph
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+## 🤝 Let's Connect
+
+Have a project idea, want to collaborate, or just want to talk tech and design? Feel free to reach out!
+
+<div align="center">
+  <a href="mailto:tiger191110@gmail.com"><img src="https://img.shields.io/badge/Email-tiger191110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahdairaja/"><img src="https://img.shields.io/badge/Instagram-@ahdairaja-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigilanterr&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Vigilanterr&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS" />
+  <br><br>
+  <sub>⭐ If you like what you see, drop a star on my repos! ⭐</sub>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vigilanterr&style=for-the-badge&color=38B2AC" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38B2AC,50:0D9488,100:0F172A&section=footer" width="100%" />
