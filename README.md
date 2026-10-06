@@ -78,60 +78,47 @@ status: Open to collaborate ✅
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 📂 Featured Projects
 
-<!-- 👉 Ganti isi di bawah ini dengan project kamu yang sebenarnya -->
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔹 Project Name 1
-Short description of what this project does and the problem it solves.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
-
+<td width="140" align="center" valign="middle">
+  <a href="https://kompasdesa.site">
+    <img src="https://raw.githubusercontent.com/newbiejy235/starbhak-kompas-desa/main/public/logo-kompas-desa/kompas_logo_icon.png" width="110" alt="Kompas'Desa Logo" />
+  </a>
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🔹 Project Name 2
-Short description of what this project does and the problem it solves.
+### 🌾 [Kompas'Desa](https://github.com/newbiejy235/starbhak-kompas-desa)
+**Menghubungkan petani lokal dan pembeli langsung dalam satu ekosistem digital.**
+
+A web platform that works as a bridge between **local farmers** and **buyers** (individuals, restaurants, and wholesalers). It shortens the long agricultural supply chain so farmers get fairer prices and buyers get fresh produce directly from the source.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
-[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Project Name 3
-Short description of what this project does and the problem it solves.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Project Name 4
-Short description of what this project does and the problem it solves.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-[🔗 Repository](https://github.com/Vigilanterr) · [🌐 Live Demo](#)
+[🌐 **Live Website**](https://kompasdesa.site) &nbsp;·&nbsp; [💻 **Source Code**](https://github.com/newbiejy235/starbhak-kompas-desa)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>✨ Key features of Kompas'Desa</b></summary>
+<br>
+
+| 🧑‍🌾 For Farmers | 🛒 For Buyers | 🎨 Experience |
+| :--- | :--- | :--- |
+| Step-by-step registration | Search & filter by location | Smooth GSAP animations |
+| Own digital storefront | Filter by rating (4.5+) | Fully responsive layout |
+| Verified farmer badge | Sort by relevance, newest, stock | Fast loading with Next.js App Router |
+
+</details>
+
+<div align="center">
+  <sub>More projects live in my <a href="https://github.com/Vigilanterr?tab=repositories">repositories</a> 📁</sub>
+</div>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
