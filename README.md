@@ -79,9 +79,10 @@ I enjoy turning ideas into practical products through clean code, thoughtful arc
   />
 </div>
 
+
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Vigilanterr&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=Vigilanterr&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2DD4BF&sideLabels=FFFFFF&dates=8B949E"
     width="70%"
     alt="GitHub Contribution Streak"
   />
