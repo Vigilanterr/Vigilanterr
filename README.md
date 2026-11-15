@@ -1,119 +1,84 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0D9488,100:38B2AC&text=Hi%2C%20I'm%20Vigilanterr&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
-</div>
+# Vigilanterr
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Building+clean+%26+functional+web+apps;Turning+ideas+into+pixel-perfect+interfaces;Student+%40+SMK+Taruna+Bhakti+Depok;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1726&text=Vigilanterr&fontSize=48&fontColor=E2E8F0&fontAlignY=45&desc=Building%20digital%20experiences.&descSize=16&descColor=94A3B8&descAlignY=68" width="100%" />
+
+<br/>
+
+**Fullstack Developer · UI/UX Designer**
+
+Design-minded developer focused on building thoughtful interfaces, reliable applications, and meaningful digital products.
+
+[GitHub](https://github.com/Vigilanterr) · [Instagram](https://www.instagram.com/ahdairaja/) · [Email](mailto:tiger191110@gmail.com)
+
 </div>
 
-<br>
+---
+
+### About
+
+I'm a developer and UI/UX designer based in Depok, Indonesia, currently studying at **SMK Taruna Bhakti**.
+
+I enjoy working across the entire product development process — from understanding problems and designing interfaces to building backend systems and delivering functional applications.
+
+My approach is simple: write maintainable code, pay attention to details, and build things that serve a real purpose.
+
+- Currently exploring fullstack and mobile application development.
+- Interested in UI engineering, product design, and system architecture.
+- Exploring computer vision with Python and OpenCV.
+- Always open to meaningful projects and collaborations.
+
+### Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres&theme=dark" alt="Backend technologies" />
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile technologies" />
+
+**Design & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode,docker&theme=dark" alt="Design and development tools" />
+
+### GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/Vigilanterr"><img src="https://img.shields.io/badge/GitHub-Vigilanterr-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ahdairaja/"><img src="https://img.shields.io/badge/Instagram-@ahdairaja-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:tiger191110@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vigilanterr&show_icons=true&hide_border=true&bg_color=0D1726&title_color=5EEAD4&icon_color=5EEAD4&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigilanterr&layout=compact&hide_border=true&bg_color=0D1726&title_color=5EEAD4&text_color=CBD5E1" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Vigilanterr&hide_border=true&background=0D1726&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub contribution streak" />
+
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm a **Fullstack Developer & UI/UX Designer** who loves building web applications that are **clean, responsive, and genuinely useful**. I enjoy working on both sides of a product, from designing the interface in Figma to shipping the code behind it.
-
-- 🎓 Currently studying at **SMK Taruna Bhakti Depok**
-- 🔭 Working on **fullstack web & mobile projects**
-- 🎨 Passionate about **design systems & user experience**
-- 🤖 Exploring **computer vision** with Python & OpenCV
-- 🌱 Currently leveling up my **TypeScript, Next.js & React Native**
-- 💬 Ask me about **web dev, UI/UX, or design tools**
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-name: Vigilanterr
-role: Fullstack Dev & UI/UX
-school: SMK Taruna Bhakti
-location: Depok, Indonesia 🇮🇩
-focus:
-  - Web Development
-  - Mobile Apps
-  - UI/UX Design
-status: Open to collaborate ✅
-```
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-## 🛠️ Tech Stack
-
-**🌐 Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" />
-
-**⚙️ Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,opencv&theme=dark" />
-
-**📱 Mobile**
-<br>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" /> <sub>React Native</sub>
-
-**🎨 Design & Creative**
-<br>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" />
-
-**🔧 Tools & Version Control**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Stats
+### Contribution Graph
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vigilanterr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38B2AC&icon_color=38B2AC" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vigilanterr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38B2AC" />
+
+<img src="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution graph" />
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vigilanterr&theme=tokyonight&hide_border=true&background=0F172A&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
+
+**Let's build something meaningful.**
+
+[Get in touch](mailto:tiger191110@gmail.com)
+
+<br/>
+
+<sub>Designed and built with curiosity from Indonesia.</sub>
+
 </div>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vigilanterr/Vigilanterr/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
-## 🤝 Let's Connect
-
-Have a project idea, want to collaborate, or just want to talk tech and design? Feel free to reach out!
-
-<div align="center">
-  <a href="mailto:tiger191110@gmail.com"><img src="https://img.shields.io/badge/Email-tiger191110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ahdairaja/"><img src="https://img.shields.io/badge/Instagram-@ahdairaja-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vigilanterr&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS" />
-  <br><br>
-  <sub>⭐ If you like what you see, drop a star on my repos! ⭐</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38B2AC,50:0D9488,100:0F172A&section=footer" width="100%" />
